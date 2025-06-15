@@ -1,3 +1,0 @@
-data filter=lfs diff=lfs merge=lfs -text
-runs filter=lfs diff=lfs merge=lfs -text
-done filter=lfs diff=lfs merge=lfs -text
